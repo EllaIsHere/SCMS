@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/ChangePasswordServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/VerifyOTPServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/util/EmailUtil.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/TestServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/registration_success.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/LoginOTPServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/login_otp_verification.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/LoginVerifyOTPServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/SendTemporaryPasswordServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/register.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/otp_verification.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/util/DBConnection.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/registered_already.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/email_verified.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/request_temporary_password.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/LoginVerifyOTPServlet.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/set_new_password.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/create_new_password.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/CreateNewPasswordServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/password_set_successfully.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/index.html</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/DeleteAccountServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/delete_account.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/admin_dashboard.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/enrollment_not_found.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/force_change_password.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/login.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/staff_dashboard.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/student_dashboard.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/submit_complaint.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/delete_account_success.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/util/MessageUtil.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/MessagesServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/messages.jsp</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/GetChatHistoryServlet.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/MessageDAO.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/java/controller/Message.java</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/build.xml</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/gonza/Documents/SCMS/web/META-INF/context.xml</file>
+        </group>
+    </open-files>
+</project-private>
